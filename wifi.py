@@ -9,8 +9,8 @@ password = "urpasswd"
 
 url = "http://phc.prontonetworks.com/cgi-bin/authlogin"
 data = {
-    "userId": userId,
-    "password": password,
+    "userId": 22BDS0318,
+    "password": 123,
     "serviceName": "ProntoAuthentication",
     "Submit22": "Login",
 }
